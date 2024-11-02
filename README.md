@@ -1,2 +1,1 @@
-# recursionArraySum.java
-finding sum of array element using recursion
+hi i am Sadat khan and here is my repository of java programing
